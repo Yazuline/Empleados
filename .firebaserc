@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-9a380": {
+      "hosting": {
+        "AppCrudEmpleados": [
+          "empleados-9a380"
+        ]
+      }
+    }
+  }
+}
